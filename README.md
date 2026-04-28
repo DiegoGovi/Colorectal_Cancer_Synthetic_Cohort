@@ -1,5 +1,5 @@
 # Colorectal Cancer Synthetic Cohort
-'''
+```text
 /
 ├── data/
 │   ├── cruda/
@@ -34,4 +34,4 @@
 │       └── hiperparametros/
 ├── scripts/
 └── requirements.txt
-'''
+```
