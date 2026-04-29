@@ -1,0 +1,1098 @@
+Study ID
+Sexo
+edad el dia de la cirugia
+Antecedentes (choice=HTA)
+Antecedentes (choice=DL)
+Antecedentes (choice=DM2)
+Antecedentes (choice=IAM)
+Antecedentes (choice=Cardiopatía isquémica)
+Antecedentes (choice=FA)
+Antecedentes (choice=EPOC)
+Antecedentes (choice=Ictus)
+Antecedentes (choice=vasculopatía)
+Antecedentes (choice=HBP)
+Antecedentes (choice=otros)
+Antecedentes (choice=hipotiroidismo)
+Antecedentes (choice=sin antecedentes)
+Antecedentes (choice=colagenopatias)
+Antecedentes (choice=IRC)
+variables Charleson  (choice=Demencia)
+variables Charleson  (choice=Ulc GD)
+variables Charleson  (choice=Hepatopatia leve)
+variables Charleson  (choice=DM con daño)
+variables Charleson  (choice=Hepatopatía severa)
+variables Charleson  (choice=TVP o TEP)
+variables Charleson  (choice=depresión)
+variables Charleson  (choice=VHC)
+variables Charleson  (choice=VIH)
+antecedentes otros
+inmunosupresion
+cirugía abdominal previa  (choice=apendicectomia)
+cirugía abdominal previa  (choice=colecistectomía)
+cirugía abdominal previa  (choice=hernia inguinal)
+cirugía abdominal previa  (choice=hernia umbilical)
+cirugía abdominal previa  (choice=prostatectomia)
+cirugía abdominal previa  (choice=histerectomía)
+cirugía abdominal previa  (choice=anexectomia)
+cirugía abdominal previa  (choice=resección colon o recto previa)
+cirugía abdominal previa  (choice=ulcera gástrica)
+cirugía abdominal previa  (choice=otro)
+cirugía abdominal previa  (choice=ninguna)
+cirugía abdominal previa  (choice=cesarea)
+cirugía abdominal previa  (choice=nefrectomia)
+cirugía abdominal previa otro
+otras cirugias (choice=amigdalectomia)
+otras cirugias (choice=mama)
+otras cirugias (choice=fracturas)
+otras cirugias (choice=tiroidectomía)
+otras cirugias (choice=hemitiroidectomia)
+otras cirugias (choice=otro)
+otras cirugias (choice=ninguna)
+otras cirugias (choice=RTU)
+otras cirugias (choice=cataratas)
+otras cirugías otro
+otras neoplasia (choice=mama)
+otras neoplasia (choice=próstata)
+otras neoplasia (choice=estomago)
+otras neoplasia (choice=pulmón)
+otras neoplasia (choice=laringe)
+otras neoplasia (choice=melanoma)
+otras neoplasia (choice=riñon)
+otras neoplasia (choice=urotelial)
+otras neoplasia (choice=otro)
+otras neoplasia (choice=ninguna)
+otras neoplasia (choice=tiroide)
+otra neo otro
+radioterapia pélvica previa
+antecedentes familiares
+antecedentes familiares especificar
+Fam 2º grado CCR
+Fam 1er grado CCR
+Fam 1er grado ca digestivo 
+Fam 1er grado ca gyn 
+enfermedades asociadas con ca colon (choice=ninguna)
+enfermedades asociadas con ca colon (choice=Lynch)
+enfermedades asociadas con ca colon (choice=PAF)
+enfermedades asociadas con ca colon (choice=crohn)
+enfermedades asociadas con ca colon (choice=CU)
+enfermedades asociadas con ca colon (choice=otra  enf genetica)
+otra enf genetica
+tratamiento (choice=AAS)
+tratamiento (choice=hormonoterapia)
+tratamiento (choice=AINES)
+tratamiento (choice=Corticoides)
+tratamiento (choice=Anticoagulantes)
+tratamiento (choice=otros inmunosupresores)
+tratamiento (choice=quimioterapia)
+dependencia
+ASA
+peso
+talla
+IMC
+desnutricion
+fumador
+cuanto fuma
+cuanto fumo
+alcohol
+drogas
+sintomas
+tiempo con sintomas
+síntomas especificar (choice=rectorragia)
+síntomas especificar (choice=melena)
+síntomas especificar (choice=perdida de peso)
+síntomas especificar (choice=perdida de apetito)
+síntomas especificar (choice=cansancio)
+síntomas especificar (choice=dolor)
+síntomas especificar (choice=nauseas)
+síntomas especificar (choice=vomitos)
+síntomas especificar (choice=estreñimiento)
+síntomas especificar (choice=diarrea)
+síntomas especificar (choice=tenesmo)
+síntomas especificar (choice=suboclusion)
+síntomas especificar (choice=masa)
+síntomas especificar (choice=síndrome anémico)
+síntomas especificar (choice=alteración del ritmo intestinal)
+síntomas especificar (choice=urgencia defecatoria)
+síntomas especificar (choice=astenia)
+síntomas especificar (choice=molestia inespecífica)
+síntomas especificar (choice=moco)
+perdida de peso (kg)
+remitido de
+remitido de otro servicio
+sincronico/metacronico  (choice=unico)
+sincronico/metacronico  (choice=sincronico)
+sincronico/metacronico  (choice=metacronico)
+localizacion (choice=ciego)
+localizacion (choice=ascendente)
+localizacion (choice=ang hepático)
+localizacion (choice=transverso)
+localizacion (choice=ang esplénico)
+localizacion (choice=descendente)
+localizacion (choice=sigma)
+localizacion (choice=recto)
+recto altura
+sangre oculta en heces positiva
+colonoscopia
+fecha colonoscopia dg
+colono completa 
+colono biopsia
+colono biopsia adenoca
+colono biopsia otro benigno
+TAC
+TAC fecha
+TAC metástasis 
+TAC localización metastasis (choice=hígado)
+TAC localización metastasis (choice=pulmón)
+TAC localización metastasis (choice=carcinomatosis)
+TAC localización metastasis (choice=suprarrenal)
+TAC localización metastasis (choice=páncreas)
+TAC localización metastasis (choice=ovario)
+TAC hallazgo (choice=adenopatías)
+TAC hallazgo (choice=neo con infiltración)
+TAC hallazgo (choice=obstrucción)
+TAC hallazgo (choice=perforación)
+TAC hallazgo (choice=otro)
+TAC hallazgo (choice=nodulo pulmonar no especifico)
+otro TAC
+ECO
+ECO LOES
+diagnostico por 
+RM
+RM fecha
+RM estadiaje T
+RM estadiaje N
+EER
+EER fecha
+EER estadiaje T
+EER estadiaje N
+manometria anal
+presión reposo 
+capacidad contracción voluntaria
+longitud canal anal
+conclusión manometria
+PET TC
+mtx PET TC
+PET TC localización mtx (choice=higado)
+PET TC localización mtx (choice=pulmon)
+PET TC localización mtx (choice=adenopatías locales)
+PET TC localización mtx (choice=otro)
+PET TC localización mtx (choice=adenopatías retroperitoneales)
+PET TC hallazgo Otro
+tratamiento neoadyuvante
+tipo neoadyuvancia
+fecha inicio radioterapia
+fecha fin de radioterapia
+dosis total RT
+tipo de quimioterapia (choice=capecitabina)
+tipo de quimioterapia (choice=5FU)
+fecha RM post 
+RM post reestadiaje T
+RM post estadiaje N
+respuesta RM según comentario radiológico  (choice=sin respuesta)
+respuesta RM según comentario radiológico  (choice=respuesta parcial)
+respuesta RM según comentario radiológico  (choice=respuesta completa)
+respuesta RM según comentario radiológico  (choice=progresion)
+Ingreso pre
+otro servicio de ingreso previo
+fecha ingreso pre
+fecha alta ingreso pre
+motivo ingreso pre (choice=anemia)
+motivo ingreso pre (choice=obstrucción)
+motivo ingreso pre (choice=sindrome constitucional)
+motivo ingreso pre (choice=fiebre)
+motivo ingreso pre (choice=rectorragia)
+motivo ingreso pre (choice=otro)
+motivo ingreso otro
+transfusión preoperatoria
+cirugía relacionada con la enfermedad previa a resección primaria 
+tipo cirugía previa  (choice=colostomía de descarga)
+tipo cirugía previa  (choice=biopsia quirúrgica)
+tipo cirugía previa  (choice=laparotomía exploradora)
+tipo cirugía previa  (choice=resección metástasis pulmonar)
+tipo cirugía previa  (choice=resección metástasis hepática)
+tipo cirugía previa  (choice=drenaje de absceso)
+tipo cirugía previa  (choice=resección endoscópica)
+tipo cirugía previa  (choice=biopsia hepatica)
+fecha de cirugia previa 
+fecha de admitase
+stent previo
+fecha de colocación de estent
+complicaciones stent
+colostomía previa
+complicaciones colostomia
+cirugía transanal previa 
+fecha cirugía transanal previa
+fecha de cirugia
+cirujano
+preparacion
+intervencion
+numero de cirujanos
+numero de residentes
+hora de entrada
+hora de salida
+hora de inicio cirugia
+hora de fin cirugia
+diagnostico agravante
+intencion
+grado de contaminacion
+abordaje
+motivo de conversion (choice=adherencias)
+motivo de conversion (choice=obesidad)
+motivo de conversion (choice=dificultad técnica)
+motivo de conversion (choice=sangrado)
+motivo de conversion (choice=lesión intestinal)
+motivo de conversion (choice=lesión ureteral)
+motivo de conversion (choice=intolerancia por anestesia)
+tipo de intervencion (choice=hemicolectomia derecha)
+tipo de intervencion (choice=hemicolectomia derecha ampliada)
+tipo de intervencion (choice=hemicolectomia izquierda)
+tipo de intervencion (choice=sigmoidectomia)
+tipo de intervencion (choice=resección anterior)
+tipo de intervencion (choice=resección anterior baja)
+tipo de intervencion (choice=resección anterior ultrabaja)
+tipo de intervencion (choice=colectomia subtotal)
+tipo de intervencion (choice=colectomia total)
+tipo de intervencion (choice=resección segmentaria)
+tipo de intervencion (choice=amputación abdominoperineal)
+tipo de intervencion (choice=TAMIS)
+tipo de intervencion (choice=TEM)
+tipo de intervencion (choice=Resección local transanal)
+liquido libre (choice=no)
+liquido libre (choice=sucio)
+liquido libre (choice=purulento)
+liquido libre (choice=fecaloideo)
+liquido libre (choice=hematico)
+perforación intraop
+hallazgo casual  (choice=carcinomatosis)
+hallazgo casual  (choice=metástasis hepáticas)
+hallazgo casual  (choice=adenopatías)
+hallazgo casual  (choice=ascitis)
+hallazgo casual  (choice=necrosis tumoral)
+invasión de otro organo
+invasión órgano especifico (choice=utero)
+invasión órgano especifico (choice=vagina)
+invasión órgano especifico (choice=ovario)
+invasión órgano especifico (choice=intestino delgado)
+invasión órgano especifico (choice=pared abdominal)
+invasión órgano especifico (choice=uterer)
+invasión órgano especifico (choice=vejiga)
+invasión órgano especifico (choice=otro)
+invasión órgano especifico otro
+procedimiento asociado por invasión de organo
+anastomosis
+anastomosis de recto (CEA o ILS)
+otro procedimiento (choice=Hartmann)
+otro procedimiento (choice=malla profiláctica)
+otro procedimiento (choice=colecistectomía)
+otro procedimiento (choice=endoscopia)
+otro procedimiento (choice=resección hepática)
+otro procedimiento (choice=otro)
+otro procedimiento (choice=colostomía de proteccion)
+otro procedimiento otro
+complicaciones intraoperatorias
+complicaciones intraop especificar (choice=sangrado)
+complicaciones intraop especificar (choice=adherencias)
+complicaciones intraop especificar (choice=otro)
+complicaciones intraoperatorias especificas otro
+localización de sangrado intraoperatorio (choice=vena presacras)
+localización de sangrado intraoperatorio (choice=bazo)
+localización de sangrado intraoperatorio (choice=mesenterio)
+stoma
+tipo de estoma
+drenaje
+transfusión intraoperatoria o en URPA
+hematies intra
+plaquetas intra
+plasma intra
+URPA o UVI
+estancia URPA en horas
+complicaciones URPA
+complicaciones urpa especificar (choice=sangrado)
+complicaciones urpa especificar (choice=anuria)
+complicaciones urpa especificar (choice=oligouria)
+complicaciones urpa especificar (choice=agitación)
+complicaciones UVI (choice=no)
+complicaciones UVI (choice=sepsis)
+complicaciones UVI (choice=fracaso renal agudo)
+complicaciones UVI (choice=insuficiencia respiratoria)
+complicaciones UVI (choice=agitacion)
+dg histologico
+diferenciacion
+estadio T
+estadio N  
+estadio M
+longitud de la pieza
+longitud meso
+tamaño tumor de largo
+tamaño tumor de ancho
+porcentaje estenosis
+ganglios aislados
+ganglios infiltrados
+ganglios infiltrados/aislados LNR
+margen proximal libre 
+margen distal libre
+margen circunferencial libre
+invasión de mesorecto
+invasión vascular
+invasión neural   
+invasión linfatica
+invasión mesorecto 
+grado resección recto 
+grado resección R
+grado de regresión de Ryan
+K-ras
+inestabilidad de microsatelites estudiada
+inestable  (choice=MLH1)
+inestable  (choice=PMS2)
+inestable  (choice=MSH2)
+inestable  (choice=MSH6)
+otra lesión benigna 
+otra lesión maligna especif (choice=ATDBG)
+otra lesión maligna especif (choice=ATVDBG)
+otra lesión maligna especif (choice=ATDAG)
+otra lesión maligna especif (choice=ATVDAG)
+otra lesión maligna especif (choice=AVelloso)
+otra lesión maligna especif (choice=pólipo hiperplasico)
+otra lesión maligna especif (choice=angiodisplasia)
+otra lesión maligna 
+dg histológico 2
+diferenciacion.1
+estadio T.1
+estadio N  .1
+tamaño tumor de largo.1
+tamaño tumor de ancho.1
+porcentaje estenosis.1
+bordes libres de resección de metastasis
+otro comentario
+stent
+Fecha ingreso
+Fecha alta
+complicaciones ingreso (choice=si)
+complicaciones ingreso (choice=no)
+complicaciones especificas (choice=ITU)
+complicaciones especificas (choice=RAO)
+complicaciones especificas (choice=infección sitio quirúrgico)
+complicaciones especificas (choice=colección intraabdominal)
+complicaciones especificas (choice=fuga anastomotica)
+complicaciones especificas (choice=ileo paralitico)
+complicaciones especificas (choice=neumonía)
+complicaciones especificas (choice=derrame pleural)
+complicaciones especificas (choice=atelectasia)
+complicaciones especificas (choice=FA)
+complicaciones especificas (choice=infarto)
+complicaciones especificas (choice=insuficiencia cardiaca)
+complicaciones especificas (choice=rectorragia)
+complicaciones especificas (choice=sangrado)
+complicaciones especificas (choice=hematoma de herida)
+complicaciones especificas (choice=seroma)
+complicaciones especificas (choice=fiebre sin foco)
+complicaciones especificas (choice=anemizacion sin foco)
+complicaciones especificas (choice=otro)
+complicaciones especificas (choice=fuga muñon Hartmann)
+complicaciones especificas (choice=insuficiencia cardiaca).1
+complicaciones especificas (choice=insuficiencia respiratoria)
+complicaciones especificas (choice=insuficiencia renal)
+complicaciones especificas (choice=evisceración)
+complicaciones especificas (choice=desnutrición)
+complicaciones especificas (choice=shock séptico)
+complicaciones especificas (choice=obstrucción)
+complicaciones especificas (choice=TEP)
+complicaciones especificas (choice=TVP)
+complicaciones especificas (choice=urinoma)
+complicaciones especificas (choice=sepsis)
+complicaciones especificas (choice=sd inmovilidad)
+complicaciones especificas (choice=Clostridium difficile)
+complicaciones especificas (choice=delitium)
+complicaciones ingreso otro
+resolución de las complicaciones (choice=si)
+resolución de las complicaciones (choice=parcial)
+resolución de las complicaciones (choice=no)
+grado Clavien complicaciones (choice=I- cualquier cambio (ISQ, vomitos, fiebre))
+grado Clavien complicaciones (choice=II-otros fármacos a antemet, antipiret, analg, diur, Transfusiones, NPT)
+grado Clavien complicaciones (choice=IIIa- intervención qx, endoscópica o rx sin anestesia)
+grado Clavien complicaciones (choice=IIIb- intervención qx, endoscópica o rx con anestesia general)
+grado Clavien complicaciones (choice=IV-complicación que amenaza la vida (+CNS) que precisa UVI)
+grado Clavien complicaciones (choice=IVa- con fallo de un órgano)
+grado Clavien complicaciones (choice=IVb-con fallo multiorganico)
+grado Clavien complicaciones (choice=V-muerte)
+secuelas (choice=no)
+secuelas (choice=estoma al alta)
+secuelas (choice=descompensacion)
+reintervencion (choice=si)
+reintervencion (choice=no)
+motivo reintervención  (choice=fuga anastomotica)
+motivo reintervención  (choice=colección intraabdominal)
+motivo reintervención  (choice=evisceración)
+motivo reintervención  (choice=sangrado)
+fecha de reintervención
+transfusión postoperatoria (choice=si)
+transfusión postoperatoria (choice=no)
+hematíes postoperatorio
+plaquetas postoperatorio
+plasma postoperatorio
+antibiótico postoperatorio (choice=si)
+antibiótico postoperatorio (choice=no)
+antibiótico especificar
+HBPM (choice=no)
+HBPM (choice=solo durante el ingreso)
+HBPM (choice=1 mes)
+HBPM (choice=mas de 1 mes)
+alta (choice=a domicilio)
+alta (choice=a hospitalización a domicilio)
+alta (choice=a centro de cuidados)
+alta (choice=fallecimiento)
+estatus 30 días  (choice=enfermedad resecada completamente)
+estatus 30 días  (choice=R1)
+estatus 30 días  (choice=R2 imposibilidad de resecar todo localmente)
+estatus 30 días  (choice=resecada lesión primaria, quedan mtx)
+estatus 30 días  (choice=carcinomatosis)
+estatus 30 días  (choice=lesiones inespecíficas - loes sin caracterizar a seguir)
+reingreso 30d (choice=si)
+reingreso 30d (choice=no)
+causa de reingreso (choice=neumonía)
+causa de reingreso (choice=insuficiencia cardiaca)
+causa de reingreso (choice=fuga)
+causa de reingreso (choice=colección intraabdominal)
+causa de reingreso (choice=estenosis de anastomosis)
+causa de reingreso (choice=Otro)
+causa reingreso otro
+fecha reingreso
+fecha alta reingreso
+visita a urgencias 30d (choice=si)
+visita a urgencias 30d (choice=no)
+motivo visita urgencias 30d (choice=infección sitio quirúrgico)
+motivo visita urgencias 30d (choice=fiebre)
+motivo visita urgencias 30d (choice=colección intraabdominal)
+motivo visita urgencias 30d (choice=deshidratación)
+motivo visita urgencias 30d (choice=estoma no funcionante)
+motivo visita urgencias 30d (choice=presincope)
+motivo visita urgencias 30d (choice=otro)
+motivo visita urgencias 30d otro
+fecha revisión 30d
+complicaciones a los 30 días sin reingreso (choice=si)
+complicaciones a los 30 días sin reingreso (choice=no)
+complicaciones 30 días especificos (choice=ITU)
+complicaciones 30 días especificos (choice=seroma)
+complicaciones 30 días especificos (choice=infecion sitio quirúrgico)
+complicaciones 30 días especificos (choice=colección intrabdominal)
+complicaciones 30 días especificos (choice=rectorragia)
+complicaciones 30 días especificos (choice=fiebre sin foco)
+complicaciones 30 días especificos (choice=fuga)
+complicaciones 30 días especificos (choice=diarrea)
+complicaciones 30 días especificos (choice=fecaloma)
+complicaciones 30 días especificos (choice=astenia)
+complicaciones 30 días especificos (choice=otro)
+complicaciones postoperatorias otro
+quimioterapia (choice=si)
+quimioterapia (choice=no)
+razón por la que no se da quimioterapia (choice=no procede)
+razón por la que no se da quimioterapia (choice=alto riesgo)
+razón por la que no se da quimioterapia (choice=rechazo de paciente)
+razón por la que no se da quimioterapia (choice=desconocido)
+esquema de Qt 1ra linea (choice=oxali-xeloda)
+esquema de Qt 1ra linea (choice=capecitabina)
+esquema de Qt 1ra linea (choice=xeloda)
+esquema de Qt 1ra linea (choice=folfiri)
+esquema de Qt 1ra linea (choice=folfox)
+anticuerpos monoclonales 1ra linea (choice=no)
+anticuerpos monoclonales 1ra linea (choice=panitumumab)
+anticuerpos monoclonales 1ra linea (choice=cetiximab)
+anticuerpos monoclonales 1ra linea (choice=bevacizumab)
+numero de ciclos
+fecha inicio de quimioterapia
+fecha fin de quimioterapia
+finalización prematura? (choice=si)
+finalización prematura? (choice=no)
+motivo de finalización prematura de quimio (choice=toxicidad)
+motivo de finalización prematura de quimio (choice=mala tolerancia)
+motivo de finalización prematura de quimio (choice=decisión del paciente)
+motivo de finalización prematura de quimio (choice=otro motivo)
+otro motivo fin quimio
+toxicidad quimio  (choice=si)
+toxicidad quimio  (choice=no)
+toxicidad quimioterapia (choice=astenia)
+toxicidad quimioterapia (choice=diarrea)
+toxicidad quimioterapia (choice=mucositid)
+toxicidad quimioterapia (choice=sd mano pie)
+toxicidad quimioterapia (choice=alopecia)
+toxicidad quimioterapia (choice=neutropenia)
+toxicidad quimioterapia (choice=anorexia)
+toxicidad quimioterapia (choice=nauseas)
+toxicidad quimioterapia (choice=neuropatía)
+toxicidad quimioterapia (choice=otro)
+toxicidad quimioterapia (choice=diarrea).1
+toxicidad quimioterapia (choice=deterioro fc renal)
+toxicidad quimioterapia (choice=trombopenia)
+toxicidad quimioterapia (choice=encefalopatía)
+toxicidad quimioterapia (choice=toxicidad cutanea)
+toxicidad quimioterapia otro
+grado de toxicidad quimio (choice=1)
+grado de toxicidad quimio (choice=2)
+grado de toxicidad quimio (choice=3)
+efectos secundarios anticuerpos monoclonales cualquier linea (choice=sangrado)
+efectos secundarios anticuerpos monoclonales cualquier linea (choice=otro)
+respuesta a la quimio 1ra linea (choice=buena respuesta, sin recidiva)
+respuesta a la quimio 1ra linea (choice=buena respuesta, enfermedad residual estable)
+respuesta a la quimio 1ra linea (choice=respuesta parcial)
+respuesta a la quimio 1ra linea (choice=progresión de la enfermedad)
+fecha de progresión de enfermedad
+sitio de progresión de la enfermedad 1 (choice=hígado)
+sitio de progresión de la enfermedad 1 (choice=pulmón)
+sitio de progresión de la enfermedad 1 (choice=carcinomatosis)
+sitio de progresión de la enfermedad 1 (choice=local)
+esquema de Qt 2a linea (choice=oxali-xeloda)
+esquema de Qt 2a linea (choice=capecitabina)
+esquema de Qt 2a linea (choice=xeloda)
+esquema de Qt 2a linea (choice=folfiri)
+esquema de Qt 2a linea (choice=folfox)
+esquema de Qt 2a linea (choice=ensayo)
+ensayo
+anticuerpos monoclonales 2a linea (choice=no)
+anticuerpos monoclonales 2a linea (choice=panitumumab)
+anticuerpos monoclonales 2a linea (choice=cetiximab)
+anticuerpos monoclonales 2a linea (choice=bevacizumab)
+anticuerpos monoclonales 2a linea (choice=regorafenib)
+toxicidad quimioterapia (choice=astenia).1
+toxicidad quimioterapia (choice=diarrea).2
+toxicidad quimioterapia (choice=mucositid).1
+toxicidad quimioterapia (choice=sd mano pie).1
+toxicidad quimioterapia (choice=alopecia).1
+toxicidad quimioterapia (choice=neutropenia).1
+toxicidad quimioterapia (choice=anorexia).1
+toxicidad quimioterapia (choice=nauseas).1
+toxicidad quimioterapia (choice=neuropatía).1
+toxicidad quimioterapia (choice=otro).1
+toxicidad quimioterapia (choice=diarrea).3
+toxicidad quimioterapia (choice=deterioro fc renal).1
+toxicidad quimioterapia (choice=no)
+numero de ciclos 2 linea
+respuesta a la quimio 2 linea (choice=buena respuesta, sin recidiva)
+respuesta a la quimio 2 linea (choice=buena respuesta, enfermedad residual estable)
+respuesta a la quimio 2 linea (choice=respuesta parcial)
+respuesta a la quimio 2 linea (choice=progresión de la enfermedad)
+fecha progresión enfermedad 2
+sitio de progresión de la enfermedad2 (choice=hígado)
+sitio de progresión de la enfermedad2 (choice=pulmón)
+sitio de progresión de la enfermedad2 (choice=carcinomatosis)
+sitio de progresión de la enfermedad2 (choice=local)
+esquema qt 3ra línea  (choice=folfiri)
+esquema qt 3ra línea  (choice=folfox)
+esquema qt 3ra línea  (choice=ensayo clínico)
+esquema qt 3ra línea  (choice=TAS-102)
+esquema qt 3ra línea  (choice=aflibercept)
+anticuerpos monoclonales 3a linea (choice=bevacizumab)
+anticuerpos monoclonales 3a linea (choice=cetuximab)
+anticuerpos monoclonales 3a linea (choice=regorafenib)
+anticuerpos monoclonales 3a linea (choice=panitumumab)
+nr de ciclos 3ra línea qt
+fecha progresión enfermedad 3
+sitio de progresión de la enfermedad3 (choice=hígado)
+sitio de progresión de la enfermedad3 (choice=pulmón)
+sitio de progresión de la enfermedad3 (choice=carcinomatosis)
+sitio de progresión de la enfermedad3 (choice=local)
+quimioterapia 4a linea
+exitus 
+fecha exitus
+motivo exitus
+ultima visita
+comentario ultima visita
+seguimiento al menos durante 1 año
+continua con la enfermedad 1 año
+TAC 1a
+numero de TAC durante 1a
+hallazgos TAC 1año (choice=nada relevante)
+hallazgos TAC 1año (choice=estable)
+hallazgos TAC 1año (choice=respuesta completa)
+hallazgos TAC 1año (choice=progresión de enfermedad conocida)
+hallazgos TAC 1año (choice=LOES nuevas)
+hallazgos TAC 1año (choice=adenopatías nuevas)
+hallazgos TAC 1año (choice=nodulo pulm inespecífico)
+hallazgos TAC 1año (choice=eventración)
+hallazgos TAC 1año (choice=aumento de partes blandas presacras)
+hallazgos TAC 1año (choice=colección pélvica)
+hallazgos TAC 1año (choice=colección intraabdominal)
+hallazgos TAC 1año (choice=aire perianastomotico)
+hallazgos TAC 1año (choice=nodulo adrenal)
+hallazgos TAC 1año (choice=otro)
+hallazgos TAC 1año (choice=hernia paraestomal)
+hallazgo tc 1a otro
+Colono 1a
+numero de colonoscopias durante el primer año
+hallazgos colono 1a (choice=recidiva)
+hallazgos colono 1a (choice=estenosis)
+hallazgos colono 1a (choice=orificio en la anastomosis)
+hallazgos colono 1a (choice=rectitis)
+hallazgos colono 1a (choice=lesiones benignas)
+hallazgos colono 1a (choice=nueva lesión maligna)
+hallazgos colono 1a (choice=postop normal)
+hallazgos colono 1a (choice=granuloma)
+hallazgos colono 1a (choice=divertículos)
+hallazgos colono 1a (choice=ulcera)
+hallazgos colono 1a (choice=se hace dilatacion)
+PET TC 1 año
+numero de PET TC 1a
+hallazgos PET TC 1a (choice=adenopatías)
+hallazgos PET TC 1a (choice=recidiva local)
+hallazgos PET TC 1a (choice=LOES hepáticas)
+hallazgos PET TC 1a (choice=LOES pulmonares)
+hallazgos PET TC 1a (choice=respuesta completa)
+hallazgos PET TC 1a (choice=coleccion pélvica)
+hallazgos PET TC 1a (choice=sin recidiva)
+hallazgos PET TC 1a (choice=carcinomatosis)
+ECO 1a
+Numero de ECOs 1a
+hallazgos ECO 1a (choice=LOES hepáticas)
+hallazgos ECO 1a (choice=sin cambios)
+hallazgos ECO 1a (choice=nodulo adrenal)
+complicaciones 1a
+complicaciones 1a especificas (choice=fuga)
+complicaciones 1a especificas (choice=dolor)
+complicaciones 1a especificas (choice=diarrea)
+complicaciones 1a especificas (choice=estreñieminto)
+complicaciones 1a especificas (choice=soiling)
+complicaciones 1a especificas (choice=incontinencia)
+complicaciones 1a especificas (choice=síndrome de resección baja)
+complicaciones 1a especificas (choice=eventración)
+complicaciones 1a especificas (choice=fuga muñon Hartmann)
+complicaciones 1a especificas (choice=obstrucción)
+complicaciones 1a especificas (choice=hernia paraestomal)
+complicaciones 1a especificas (choice=otro)
+complicaciones 1er año especificas otro
+grado Clavien complicaciones 1a
+numero de visitas al cirujano 1a
+hallazgos reseñables 1er año
+seguimiento al menos 2 años 
+continua con la enfermedad 2 años
+TAC 2a
+numero de TAC durante 2a
+hallazgos TAC 2años (choice=nada relevante)
+hallazgos TAC 2años (choice=estable)
+hallazgos TAC 2años (choice=respuesta completa)
+hallazgos TAC 2años (choice=progresión de enfermedad conocida)
+hallazgos TAC 2años (choice=LOES nuevas)
+hallazgos TAC 2años (choice=adenopatías nuevas)
+hallazgos TAC 2años (choice=nodulo pulm inespecífico)
+hallazgos TAC 2años (choice=eventración)
+hallazgos TAC 2años (choice=aumento de partes blandas presacras)
+hallazgos TAC 2años (choice=colección pélvica)
+hallazgos TAC 2años (choice=colección intraabdominal)
+hallazgos TAC 2años (choice=aire perianastomotico)
+hallazgos TAC 2años (choice=nodulo adrenal)
+hallazgos TAC 2años (choice=hernia paraestomal)
+hallazgos TAC 2años (choice=otro)
+TAC 2 años hallazgo otro
+Colono 2a
+numero de colonoscopias durante año 2
+hallazgos colono 2a (choice=recidiva)
+hallazgos colono 2a (choice=estenosis)
+hallazgos colono 2a (choice=fuga)
+hallazgos colono 2a (choice=rectitis)
+hallazgos colono 2a (choice=lesiones benignas)
+hallazgos colono 2a (choice=nueva lesión maligna)
+hallazgos colono 2a (choice=postop normal)
+hallazgos colono 2a (choice=granuloma)
+hallazgos colono 2a (choice=divertículos)
+hallazgos colono 2a (choice=ileitis)
+hallazgos colono 2a (choice=ulcera)
+hallazgos colono 2a (choice=se hace dilatacion)
+PET TC 2 año
+numero de PET TC 2a
+hallazgos PET TC 2a (choice=adenopatías)
+hallazgos PET TC 2a (choice=recidiva local)
+hallazgos PET TC 2a (choice=LOES hepáticas)
+hallazgos PET TC 2a (choice=LOES pulmonares)
+hallazgos PET TC 2a (choice=respuesta completa)
+hallazgos PET TC 2a (choice=coleccion pélvica)
+hallazgos PET TC 2a (choice=sin recidiva)
+hallazgos PET TC 2a (choice=carcinomatosis)
+ECO 2a
+Numero de ECOs 2a
+hallazgos ECO 2a (choice=LOES hepáticas)
+hallazgos ECO 2a (choice=sin cambios)
+hallazgos ECO 2a (choice=nodulo adrenal)
+complicaciones 2a
+complicaciones 2a especificas (choice=fuga)
+complicaciones 2a especificas (choice=dolor)
+complicaciones 2a especificas (choice=diarrea)
+complicaciones 2a especificas (choice=estreñieminto)
+complicaciones 2a especificas (choice=soiling)
+complicaciones 2a especificas (choice=incontinencia)
+complicaciones 2a especificas (choice=síndrome de resección baja)
+complicaciones 2a especificas (choice=eventración)
+complicaciones 2a especificas (choice=fuga muñon Hartmann)
+complicaciones 2a especificas (choice=hernia parasestomal)
+complicaciones 2a especificas (choice=otro)
+complicaciones 2o año especificas otro
+grado Clavien complicaciones 2a
+numero de visitas al cirujano 2a
+hallazgos reseñables año 2
+seguimiento al menos durante 5a
+continua con la enfermedad 5 años
+TAC 5a
+numero de TAC durante 5a
+hallazgos TAC 5años (choice=nada relevante)
+hallazgos TAC 5años (choice=estable)
+hallazgos TAC 5años (choice=respuesta completa)
+hallazgos TAC 5años (choice=progresión de enfermedad conocida)
+hallazgos TAC 5años (choice=LOES nuevas)
+hallazgos TAC 5años (choice=adenopatías nuevas)
+hallazgos TAC 5años (choice=nodulo pulm inespecífico)
+hallazgos TAC 5años (choice=eventración)
+hallazgos TAC 5años (choice=aumento de partes blandas presacras)
+hallazgos TAC 5años (choice=colección pélvica)
+hallazgos TAC 5años (choice=colección intraabdominal)
+hallazgos TAC 5años (choice=aire perianastomotico)
+hallazgos TAC 5años (choice=otro)
+hallazgos TAC 5años (choice=nodulo adrenal)
+hallazgos TAC 5años (choice=hernia paraestomal)
+TAC 5a otro
+Colono 5a
+numero de colonoscopias durante el año 5
+hallazgos colono 5a (choice=recidiva)
+hallazgos colono 5a (choice=estenosis)
+hallazgos colono 5a (choice=fuga)
+hallazgos colono 5a (choice=rectitis)
+hallazgos colono 5a (choice=lesiones benignas)
+hallazgos colono 5a (choice=nueva lesión maligna)
+hallazgos colono 5a (choice=postop normal)
+hallazgos colono 5a (choice=granuloma)
+hallazgos colono 5a (choice=divertículos)
+hallazgos colono 5a (choice=ulcera)
+hallazgos colono 5a (choice=se hace dilatacion)
+PET TC año 5
+numero de PET TC 5a
+hallazgos PET TC 5a (choice=adenopatías)
+hallazgos PET TC 5a (choice=recidiva local)
+hallazgos PET TC 5a (choice=LOES hepáticas)
+hallazgos PET TC 5a (choice=LOES pulmonares)
+hallazgos PET TC 5a (choice=respuesta completa)
+hallazgos PET TC 5a (choice=coleccion pélvica)
+hallazgos PET TC 5a (choice=sin recidiva)
+hallazgos PET TC 5a (choice=carcinomatosis)
+ECO 5a
+Numero de ECOs 5a
+hallazgos ECO 5a (choice=LOES hepáticas)
+hallazgos ECO 5a (choice=sin cambios)
+hallazgos ECO 5a (choice=nodulo adrenal)
+complicaciones 5a
+complicaciones 5a especificas (choice=fuga)
+complicaciones 5a especificas (choice=dolor)
+complicaciones 5a especificas (choice=diarrea)
+complicaciones 5a especificas (choice=estreñieminto)
+complicaciones 5a especificas (choice=soiling)
+complicaciones 5a especificas (choice=incontinencia)
+complicaciones 5a especificas (choice=síndrome de resección baja)
+complicaciones 5a especificas (choice=eventración)
+complicaciones 5a especificas (choice=fuga de muñon de Hartmann)
+complicaciones 5a especificas (choice=hernia paraestomal)
+complicaciones 5a especificas (choice=otro)
+complicaciones 5o año especificas otro
+grado Clavien complicaciones 5a
+numero de visitas al cirujano 5a
+hallazgos reseñables año 5
+fuga (choice=aire en TC)
+fuga (choice=orificio en colono)
+fuga (choice=colección)
+fuga (choice=defecto en anastomosis)
+fuga (choice=fistula rectovaginal)
+fuga (choice=fistula rectovesical)
+fuga (choice=sinus presacro crónico)
+fuga (choice=peritonitis)
+fuga (choice=salida de fecaloideo por el drenaje)
+fecha diagnostico fuga
+tratamiento fuga  (choice=nada)
+tratamiento fuga  (choice=endosponge)
+tratamiento fuga  (choice=cirugía-ileostomía)
+tratamiento fuga  (choice=cirugía-colostomía)
+tratamiento fuga  (choice=cirugía-resección anastomosis)
+tratamiento fuga  (choice=cirugía Hartmann)
+tratamiento fuga  (choice=antibiótico)
+tratamiento fuga  (choice=drenaje de coleccion)
+fecha de relleno de formulario
+Leucocitos preoperatorios
+Neutrofilos
+Linfocitos
+Plaquetas 
+albumina
+ALT pre
+AST pre
+BT pre
+Ca19-9
+CEA
+Creatinina pre
+Glucosa
+Hb Glicada
+proteinas
+Urea pre
+Hb
+Creatinina día 1
+Glucosa día 1
+Hemoglobina día 1
+PCR día 1
+Creatinina día 3
+Glucosa día 3
+Hemoglobina día 3
+PCR día 3
+Creatinina día 5
+Glucosa día 5
+Hemoglobina día 5
+PCR día 5
+CEA 1a fecha
+CEA 1a
+Neutrófilos 1a
+Linfocitos 1a
+Plaquetas 1a
+ALT 1a
+AST 1a
+BT 1a
+Creatinina 1a
+CEA 2a fecha
+CEA 2a
+ALT 2a
+AST 2a
+BT 2a
+Creatinina 2a
+CEA 5a fecha
+CEA 5a
+recidiva  (choice=si)
+recidiva  (choice=no)
+progresión o/y recidiva  (choice=después de operar sin enfermedad)
+progresión o/y recidiva  (choice=después de operar tiene lesiones inespecíficas que luego crecen y se catalogan como mtx)
+progresión o/y recidiva  (choice=enfermedad no resecada completamente)
+fecha de dg de recidiva
+localización de recidiva  total (choice=local)
+localización de recidiva  total (choice=regional)
+localización de recidiva  total (choice=metástasis)
+recidiva total mtx (choice=hígado)
+recidiva total mtx (choice=pulmón)
+recidiva total mtx (choice=adrenal)
+recidiva total mtx (choice=páncreas)
+recidiva total mtx (choice=ovario)
+recidiva total mtx (choice=otro)
+recidiva total mtx (choice=peritoneo)
+recidiva total mtx otro
+numero de lesiones mtx (choice=1)
+numero de lesiones mtx (choice=2)
+numero de lesiones mtx (choice=3)
+numero de lesiones mtx (choice=4)
+numero de lesiones mtx (choice=5)
+numero de lesiones mtx (choice=multiples)
+tratamiento recidiva (choice=quimioterapia)
+tratamiento recidiva (choice=cirugía)
+tratamiento recidiva (choice=nada)
+tratamiento recidiva (choice=radioterapia)
+fecha cirugía recidiva
+tipo de cirugía de recidiva (choice=resección local)
+tipo de cirugía de recidiva (choice=resección adenopatía)
+tipo de cirugía de recidiva (choice=resección mtx hepática)
+tipo de cirugía de recidiva (choice=resección hepática reglada)
+tipo de cirugía de recidiva (choice=resección nodulo pulmonar)
+tipo de cirugía de recidiva (choice=cirugía paliativa)
+tipo de cirugía de recidiva (choice=abrir y cerrar)
+tipo de cirugía de recidiva (choice=otro)
+complicaiones cirugía de recidiva (choice=si)
+complicaiones cirugía de recidiva (choice=no)
+especificar complicaciones
+estancia de cirugía de recidiva
+tipo cirugía recidiva otro
+tipo quimioterapia (choice=folfox)
+tipo quimioterapia (choice=folfiri)
+tipo quimioterapia (choice=capecitabina)
+tipo quimioterapia (choice=cetuximab)
+tipo quimioterapia (choice=panitumumab)
+tipo quimioterapia (choice=oxaliplatino)
+tipo quimioterapia (choice=leucovorina)
+tipo quimioterapia (choice=irinotecan)
+tipo quimioterapia (choice=otro)
+tipo quimioterapia (choice=bevacizumab)
+ciclos qt 1 linea
+motivo de suspensión de quimioterapia de recidiva
+tipo quimioterapia recidiva 2 linea (choice=folfox)
+tipo quimioterapia recidiva 2 linea (choice=folfiri)
+tipo quimioterapia recidiva 2 linea (choice=capecitabina)
+tipo quimioterapia recidiva 2 linea (choice=cetuximab)
+tipo quimioterapia recidiva 2 linea (choice=panitumumab)
+tipo quimioterapia recidiva 2 linea (choice=oxaliplatino)
+tipo quimioterapia recidiva 2 linea (choice=leucovorina)
+tipo quimioterapia recidiva 2 linea (choice=irinotecan)
+tipo quimioterapia recidiva 2 linea (choice=otro)
+tipo quimioterapia recidiva 2 linea (choice=bevacizumab)
+tipo quimioterapia recidiva 2 linea (choice=regorafenib)
+tipo quimioterapia recidiva 2 linea (choice=TAS-102)
+tipo qt 2a linea recidiva otro
+tipo qt 3a linea recidiva otro
+ciclos qt 2 linea
+tipo quimioterapia recidiva 3 linea (choice=folfox)
+tipo quimioterapia recidiva 3 linea (choice=folfiri)
+tipo quimioterapia recidiva 3 linea (choice=capecitabina)
+tipo quimioterapia recidiva 3 linea (choice=cetuximab)
+tipo quimioterapia recidiva 3 linea (choice=panitumumab)
+tipo quimioterapia recidiva 3 linea (choice=oxaliplatino)
+tipo quimioterapia recidiva 3 linea (choice=leucovorina)
+tipo quimioterapia recidiva 3 linea (choice=irinotecan)
+tipo quimioterapia recidiva 3 linea (choice=otro)
+tipo quimioterapia recidiva 3 linea (choice=bevacizumab)
+tipo quimioterapia recidiva 3 linea (choice=ensayo)
+tipo quimioterapia recidiva 3 linea (choice=regorafenib)
+tipo quimioterapia recidiva 3 linea (choice=TAS-102)
+ensayo 3ra línea 
+ciclos qt 3 linea
+paliativos (choice=si)
+paliativos (choice=no)
+supervivencia global
+reingreso
+motivo de reingreso  (choice=fiebre)
+motivo de reingreso  (choice=fuga)
+motivo de reingreso  (choice=colección)
+motivo de reingreso  (choice=neumonía)
+motivo de reingreso  (choice=relacionado con qt)
+motivo de reingreso  (choice=obstrucción)
+motivo de reingreso  (choice=cierre de ileo)
+motivo de reingreso  (choice=otro)
+motivo de reingreso  (choice=insuficiencia cardiaca)
+motivo de reingreso  (choice=eventración)
+motivo de reingreso  (choice=hernia paraestomal)
+motivo reingreso otro
+fecha reingreso en seguimieto
+duración de reingreso en dias
+mas de un reingreso
+reingreso 2 fecha
+reingreso 2 duración en dias
+reingreso 2 motivo  (choice=fiebre)
+reingreso 2 motivo  (choice=fuga)
+reingreso 2 motivo  (choice=colección)
+reingreso 2 motivo  (choice=neumonía)
+reingreso 2 motivo  (choice=relacionado con qt)
+reingreso 2 motivo  (choice=obstrucción)
+reingreso 2 motivo  (choice=cierre de ileo)
+reingreso 2 motivo  (choice=otro)
+reingreso 2 motivo  (choice=insuficiencia cardiaca)
+motivo reingreso 2 otro
+reingreso 3 fecha
+reingreso 3 duración en dias
+reingreso 3 motivo  (choice=fiebre)
+reingreso 3 motivo  (choice=fuga)
+reingreso 3 motivo  (choice=colección)
+reingreso 3 motivo  (choice=neumonía)
+reingreso 3 motivo  (choice=relacionado con qt)
+reingreso 3 motivo  (choice=obstrucción)
+reingreso 3 motivo  (choice=cierre de ileo)
+reingreso 3 motivo  (choice=otro)
+reingreso 3 motivo  (choice=insuficiencia cardiaca)
+motivo reingreso 3 otro
+reintervencion durante el seguimiento
+motivo reintervencion 1 (choice=fuga)
+motivo reintervencion 1 (choice=obstrucción)
+motivo reintervencion 1 (choice=eventración)
+motivo reintervencion 1 (choice=reconstruccion de transito)
+motivo reintervencion 1 (choice=complicacion de estoma (no cierre))
+motivo reintervencion 1 (choice=fuga anastomosis rectal tras cierre de estoma)
+motivo reintervencion 1 (choice=otro)
+motivo reintervencion 1 (choice=intervención no relacionada con CCR)
+motivo reintervencion 1 (choice=hernia paraestomal)
+motivo reintervencion 1 (choice=cirugía relacionada con la enfermedad a distancia diagnosticada con el primario)
+motivo reintervencion 1 otro
+carácter reintervencion 1
+tipo de cirugía realizada (choice=colostomía terminal)
+tipo de cirugía realizada (choice=adhesiolisis)
+tipo de cirugía realizada (choice=reparación eventración)
+tipo de cirugía realizada (choice=cierre de ileostomía y colostomía terminal)
+tipo de cirugía realizada (choice=drenaje de colección)
+tipo de cirugía realizada (choice=cambio de sitio de estoma)
+tipo de cirugía realizada (choice=reconstrucción de Hartmann)
+tipo de cirugía realizada (choice=reconstrucción de Hartmann con ileostomía de protección)
+tipo de cirugía realizada (choice=otro)
+detalle de intervención no relacionada con CCR
+fecha reintervencion 1
+complicaciones reintervencion 1
+complicación reintervencion 1 espec (choice=infección sitio quirúrgico)
+complicación reintervencion 1 espec (choice=fuga)
+complicación reintervencion 1 espec (choice=neumonía)
+complicación reintervencion 1 espec (choice=ITU)
+complicación reintervencion 1 espec (choice=RAO)
+complicación reintervencion 1 espec (choice=otro)
+complicación reintervencion 1 espec (choice=sangrado)
+complicación reintervencion 1 espec (choice=ileo postoperatorio)
+complicación reintervencion 1 espec (choice=colección pared abdominal)
+complicación reintervencion 1 espec (choice=dehiscencia de la herida)
+complicación reintervención 1 espec otros 
+Clavien-Dindo reintervencion 1
+UVI reintervencion 1
+mas de una reintervencion 
+motivo reintervencion  2 (choice=fuga)
+motivo reintervencion  2 (choice=obstrucción)
+motivo reintervencion  2 (choice=eventración)
+motivo reintervencion  2 (choice=reconstruccion de transito)
+motivo reintervencion  2 (choice=complicacion estoma (no cierre))
+motivo reintervencion  2 (choice=fuga anastomosis rectal tras cierre de estoma)
+motivo reintervencion  2 (choice=otro)
+motivo reintervencion  2 (choice=hernia paraestomal)
+motivo reintervencion 2 otro
+carácter reintervencion 2
+fecha reintervencion 2
+complicaciones reintervencion 2
+complicación reintervencion 2 espec (choice=infección sitio quirúrgico)
+complicación reintervencion 2 espec (choice=fuga)
+complicación reintervencion 2 espec (choice=neumonía)
+complicación reintervencion 2 espec (choice=ITU)
+complicación reintervencion 2 espec (choice=RAO)
+complicación reintervencion 2 espec (choice=otro)
+complicación reintervencion 2 espec (choice=sangrado)
+complicaciones reintervencion 2 otro
+Clavien-Dindo reintervencion 2
+mas de dos reintervenciones 
+motivo reintervencion  3 (choice=fuga)
+motivo reintervencion  3 (choice=obstrucción)
+motivo reintervencion  3 (choice=eventración)
+motivo reintervencion  3 (choice=reconstruccion de transito)
+motivo reintervencion  3 (choice=complicacion estoma (no cierre))
+motivo reintervencion  3 (choice=fuga anastomosis rectal tras cierre de estoma)
+motivo reintervencion  3 (choice=otro)
+motivo reintervencion  3 (choice=hernia paraestomal)
+motivo reintervencion 3 otro
+carácter reintervencion 3
+fecha reintervencion 3
+complicaciones reintervencion 3
+complicación reintervencion 3 espec (choice=infección sitio quirúrgico)
+complicación reintervencion 3 espec (choice=fuga)
+complicación reintervencion 3 espec (choice=neumonía)
+complicación reintervencion 3 espec (choice=ITU)
+complicación reintervencion 3 espec (choice=RAO)
+complicación reintervencion 3 espec (choice=otro)
+complicación reintervencion 3 espec (choice=sangrado)
+complicaciones reintervencion 3 otro
+Clavien-Dindo reintervencion 3
+cierre estoma
+enema opaco previo el cierre
+hallazgos de enema, TC o colono previo cierre (choice=normal)
+hallazgos de enema, TC o colono previo cierre (choice=estenosis)
+hallazgos de enema, TC o colono previo cierre (choice=fuga)
+hallazgos de enema, TC o colono previo cierre (choice=aire perianastomotico)
+hallazgos de enema, TC o colono previo cierre (choice=colección perianastomotica)
+hallazgos de enema, TC o colono previo cierre (choice=colitis por exclusión)
+hallazgos de enema, TC o colono previo cierre (choice=rectitis actínica)
+complicaciones relacionadas con estoma
+complicaciones estoma especificas  (choice=prolapso)
+complicaciones estoma especificas  (choice=deshidratación con ingreso)
+complicaciones estoma especificas  (choice=hernia)
+complicaciones estoma especificas  (choice=sangrado)
+complicaciones estoma especificas  (choice=estenosis)
+complicaciones estoma especificas  (choice=otro)
+complicaciones estoma otro
+fecha cierre estoma
+duración estancia cierre estoma en dias
+compliaciones cierre estoma  
+Complicaciones cierre estoma espec (choice=infección de herida quirúrgica)
+Complicaciones cierre estoma espec (choice=ileo paralitico)
+Complicaciones cierre estoma espec (choice=dehiscencia de anstomosis ileal)
+Complicaciones cierre estoma espec (choice=fuga en anastomosis rectal)
+Complicaciones cierre estoma espec (choice=ITU)
+Complicaciones cierre estoma espec (choice=neumonía)
+Complicaciones cierre estoma espec (choice=sangrado)
+Complicaciones cierre estoma espec (choice=otro)
+Complicaciones cierre estoma espec (choice=diarrea por C. Difficile)
+complicaciones cierre estoma otro
+Clavien-Dindo complicación cierre estoma 
+Comments
+fecha de primera consulta en MAP o urg
+fecha de primera consulta cirugia
