@@ -1,0 +1,30 @@
+# --- Patient data: never commit ---
+data/cruda/
+data/preprocesada/
+data_train/
+data_test/
+*.parquet
+*.csv
+
+# --- Model artefacts and generated outputs ---
+optuna_results/
+plots/
+*.pkl
+
+# Generated Excel files (results/ keeps the example cohort)
+*.xlsx
+!results/*.xlsx
+
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv*/
+venv/
+env/
+
+# --- OS / IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

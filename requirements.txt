@@ -1,0 +1,25 @@
+# Core data handling
+pandas
+numpy
+pyarrow
+openpyxl
+
+# Synthetic data generation (requires an SDV release that includes the sdv.cag module)
+sdv
+sdmetrics
+torch
+optuna
+
+# Statistics, survival analysis and ML
+scipy
+scikit-learn
+statsmodels
+patsy
+lifelines
+
+# Plotting and utilities
+matplotlib
+seaborn
+tqdm
+
+# Tip: pin exact versions with `pip freeze > requirements.txt` from the environment used to run the experiments.
